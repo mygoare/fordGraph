@@ -1,0 +1,21 @@
+{
+  "name": "fordGraph",
+  "version": "0.0.1",
+  "authors": [
+    "mygoare <mygoare@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3-tip": "~0.6.6"
+  }
+}
